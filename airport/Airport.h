@@ -7,7 +7,7 @@
 #include <fstream>
 #include "Date.h"
 #include "Food.h"
-#include "Tax.h" // اضافه کردن کلاس Tax
+#include "Tax.h" 
 
 class Airport {
 public:
