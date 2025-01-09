@@ -246,8 +246,8 @@ int main() {
         }
 
         // پاک کردن صفحهٔ خط فرمان
-        system("cls");  // برای ویندوز
-        // system("clear");  // برای لینوکس/مک
+        system("cls");  
+       
     }
 
     return 0;
