@@ -41,7 +41,7 @@ public:
         return in;
     }
 
-    // Static method to create a Date object from a string
+
     static Date fromString(const std::string& str) {
         Date date;
         std::istringstream iss(str);
